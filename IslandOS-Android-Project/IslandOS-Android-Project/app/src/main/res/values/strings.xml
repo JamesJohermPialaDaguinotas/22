@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IslandOS</string>
+    <string name="notification_listener_label">IslandOS Live Notifications &amp; Media</string>
+    <string name="fgs_channel_name">Dynamic Island Service</string>
+    <string name="fgs_channel_description">Keeps the system-wide Dynamic Island overlay responsive across apps.</string>
+    <string name="fgs_notification_title">IslandOS Active</string>
+    <string name="fgs_notification_text">System-wide Dynamic Island overlay is running.</string>
+</resources>

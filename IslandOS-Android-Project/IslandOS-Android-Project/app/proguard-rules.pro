@@ -1,0 +1,4 @@
+-keepattributes *Annotation*
+-keep class com.islandos.android.service.** { *; }
+-keep class com.islandos.android.model.** { *; }
+-dontwarn kotlinx.coroutines.**
